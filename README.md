@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Tackling challenges that demand sharp mathematical logic<br><br>- Specializing in:<br>Web Development (Back-End)<br>Information Security<br>Data Structures & Algorithms</p>
+<p align="left">- Tackling challenges that demand sharp mathematical logic<br><br>- Specializing in:<br>Web Development (Back-End)<br>CyberSecurity<br>Data Structures & Algorithms</p>
 
 ###
 

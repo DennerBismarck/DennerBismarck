@@ -66,6 +66,18 @@
 
 ###
 
+<h2 align="left">🎵 Currently Listening</h2>
+
+###
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31fu7dzocg73u6o5umcadap3ucne&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fu7dzocg73u6o5umcadap3ucne&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+###
+
 <h2 align="left">Contact</h2>
 
 ###
@@ -74,7 +86,7 @@
   <a href="https://www.linkedin.com/in/denner-bismarck-de-lucena-fran%C3%A7a-35a091244/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="dennerbismarck@gmail.com" target="_blank">
+  <a href="mailto:dennerbismarck@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>

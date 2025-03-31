@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- Certified Computer Technician from IFRN<br>- Currently pursuing a degree in Information Systems at UFRN</p>
+<p align="left">- 🎓 Certified Computer Technician from IFRN<br>- 📚 Currently pursuing a degree in Information Systems at UFRN</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- Tackling challenges that demand sharp mathematical logic<br><br>- Specializing in:<br>Web Development (Back-End)<br>CyberSecurity<br>Data Structures & Algorithms</p>
+<p align="left">- 🔢 Tackling challenges that demand sharp mathematical logic<br><br>- 🛠️ Specializing in:<br>⚡ Web Development (Back-End)<br>🔒 CyberSecurity<br>📊 Data Structures & Algorithms</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">⚙️ Tech Stack</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📊 Stats</h2>
 
 ###
 
@@ -66,19 +66,7 @@
 
 ###
 
-<h2 align="left">🎵 Currently Listening</h2>
-
-###
-
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31fu7dzocg73u6o5umcadap3ucne&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31fu7dzocg73u6o5umcadap3ucne&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-###
-
-<h2 align="left">Contact</h2>
+<h2 align="left">📬 Contact</h2>
 
 ###
 

@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔢 Tackling challenges<br><br>- 🛠️ Specializing in:<br>⚡ Web Development (Back-End)<br>🔒 CyberSecurity<br>📊 Data Structures & Algorithms</p>
+<p align="left">- 🔢 Tackling challenges<br><br>- 🛠️ Specializing in:<br>⚡ Web Development (FullStack)<br>🔒 CyberSecurity<br>📊 Data Structures & Algorithms</p>
 
 ###
 
